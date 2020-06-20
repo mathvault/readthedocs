@@ -4,14 +4,15 @@ Welcome
 .. toctree::
    :caption: Start Here
    :name: basics
-   :maxdepth: 3
+   :maxdepth: 4
+   :numbered:
    index
 
 
 .. toctree::
    :caption: Subjects
    :name: subjects
-   :maxdepth: 3
+   :maxdepth: 4
    probability
 
 Greeting! This is **Math Vault** speaking. Here's a *chapter*. ``html`` as code symbol. An `external link <https://mathvault.ca>`_. Internal link to :ref:`beginning`.
