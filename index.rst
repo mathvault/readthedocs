@@ -89,12 +89,11 @@ Subsection: Further nesting
 
 Hehe...
 
-Can Use Custom CSS
-==================
+References
+==========
 
+.. [stw] Stewart, John. "The Anthology of Human Stupidity". 2nd Edition. Pengiun Random House. 1993.
 
 .. rubric:: Footnotes
 
 .. [#f1] Crazy as defined by the individual in question.
-
-.. [stw] Stewart, John. "The Anthology of Human Stupidity". 2nd Edition. Pengiun Random House. 1993.
