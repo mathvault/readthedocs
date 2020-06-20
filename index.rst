@@ -47,7 +47,9 @@ Attention block:
  
  .. image:: BLM.jpg
  
+Footnote:
 
+In this crazy world of ours [#f1]_, we experience anger and frustration.
 
 .. _beginning:
 
@@ -72,3 +74,8 @@ Hehe...
 
 Can Use Custom CSS
 ==================
+
+
+.. rubric:: Footnotes
+
+.. [#f1] Crazy as defined by the individual in question.
