@@ -3,6 +3,8 @@ Welcome
 
 Greeting! This is **Math Vault** speaking. Here's a *chapter*. ``html`` as code symbol. An `external link <https://mathvault.ca>`_. Internal link to :ref:`beginning`.
 
+.. contents:: Table of Contents
+
 * Bullet point one
 * Bullet point two
 
@@ -44,6 +46,8 @@ Attention block:
  Hey there. Watch out!
  
  .. image:: BLM.jpg
+ 
+
 
 .. _beginning:
 
