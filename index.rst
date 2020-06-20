@@ -2,6 +2,7 @@ Welcome
 *******
 
 .. toctree::
+   index
    probability
 
 Greeting! This is **Math Vault** speaking. Here's a *chapter*. ``html`` as code symbol. An `external link <https://mathvault.ca>`_. Internal link to :ref:`beginning`.
