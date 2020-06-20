@@ -51,6 +51,10 @@ Footnote:
 
 In this crazy world of ours [#f1]_, we experience anger and frustration.
 
+Reference:
+
+According to Stewart et al. [stw]_, you are stupid.
+
 .. _beginning:
 
 ======================
@@ -79,3 +83,5 @@ Can Use Custom CSS
 .. rubric:: Footnotes
 
 .. [#f1] Crazy as defined by the individual in question.
+
+.. [stw] Stewart, John. "The Anthology of Human Stupidity". 2nd Edition. Pengiun Random House. 1993.
