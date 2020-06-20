@@ -40,8 +40,8 @@ True   True   True
 
 Attention block:
 
-.. attention:
-Hey there. Watch out!
+.. attention::
+ Hey there. Watch out!
 
 .. _beginning:
 
