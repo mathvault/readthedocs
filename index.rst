@@ -1,7 +1,7 @@
 Welcome
 *******
 
-Greeting! This is Math Vault speaking. Here's a chapter.
+Greeting! This is **Math Vault** speaking (bold with ``**``). Here's a *chapter*.
 
 Section: The Beginning
 ======================
