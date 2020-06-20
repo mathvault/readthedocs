@@ -14,6 +14,9 @@ Greeting! This is **Math Vault** speaking. Here's a *chapter*. ``html`` as code 
 #. List item two
 #. List item three
 
+Cat
+  A feline animal. Likes to eat *catgrass*.
+
 Section: The Beginning
 ======================
 
