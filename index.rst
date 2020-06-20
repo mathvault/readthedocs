@@ -1,7 +1,7 @@
 Welcome
 *******
 
-Greeting! This is **Math Vault** speaking. Here's a *chapter*. ``html`` as code symbol. An `external link <https://mathvault.ca>`_.
+Greeting! This is **Math Vault** speaking. Here's a *chapter*. ``html`` as code symbol. An `external link <https://mathvault.ca>`_. Internal link to :ref:`beginning`.
 
 * Bullet point one
 * Bullet point two
@@ -37,6 +37,8 @@ True   False  False
 False  True   False
 True   True   True
 =====  =====  =======
+
+_beginning:
 
 Section: The Beginning
 ======================
