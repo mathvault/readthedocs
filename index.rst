@@ -3,8 +3,8 @@ Welcome
 
 Greeting! This is Math Vault speaking
 
-Chapter 1 — The Beginning
-*************************
+The Beginning
+=========================
 
 Section: Testing
 =========
