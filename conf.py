@@ -1,7 +1,5 @@
 ## conf.py
 
-version = '3.0'
-
 # These folders are copied to the documentation's HTML output
 html_static_path = ['_static']
 
@@ -18,5 +16,3 @@ def setup(app):
 # html_js_files = [
 #    'js/custom.js',
 # ]
-
-master_doc = 'index'
