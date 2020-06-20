@@ -38,6 +38,11 @@ False  True   False
 True   True   True
 =====  =====  =======
 
+Attention block:
+
+.. attention:
+Hey there. Watch out!
+
 .. _beginning:
 
 ======================
