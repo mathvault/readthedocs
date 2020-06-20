@@ -7,6 +7,7 @@ Welcome
    :maxdepth: 4
    :numbered:
    index
+   `Math Vault <https://mathvault.ca>'_ 
 
 
 .. toctree::
