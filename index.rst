@@ -69,6 +69,15 @@ Reference:
 
 According to Stewart et al. [stw]_, you are stupid.
 
+Horizontal Lists:
+
+.. hlist::
+   :columns: 3
+   
+   * Here're some surprises!
+   * And more
+   * And more!
+
 .. _beginning:
 
 ======================
