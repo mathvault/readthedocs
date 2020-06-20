@@ -1,19 +1,22 @@
 Welcome
-=======
+*******
 
 Greeting! This is Math Vault speaking
 
-Testing
+Chapter 1 — The Beginning
+*************************
+
+Section: Testing
 =========
 
 Just testing folks...
 
-More testing
+Subsection: More testing
 ------------
 
 MarkDown's working fine.
 
-Further nesting
+Subsection: Further nesting
 ^^^^^^^^^^^^^^^
 
 Hehe...
