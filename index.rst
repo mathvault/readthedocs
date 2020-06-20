@@ -5,6 +5,9 @@ Greeting! This is **Math Vault** speaking. Here's a *chapter*. ``html`` as code 
 
 * Bullet point one
 * Bullet point two
+
+  * Sub bullet point one
+  * Sub bullet point two
 * Bullet point three
 
 #. List item one
