@@ -16,3 +16,5 @@ def setup(app):
 # html_js_files = [
 #    'js/custom.js',
 # ]
+
+master_doc = 'index'
