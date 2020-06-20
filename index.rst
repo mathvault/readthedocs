@@ -1,13 +1,13 @@
 Welcome
 *******
 
-Greeting! This is Math Vault speaking
+Greeting! This is Math Vault speaking. Here's a chapter.
 
-The Beginning
-=========================
+Section: The Beginning
+======================
 
 Section: Testing
-=========
+================
 
 Just testing folks...
 
