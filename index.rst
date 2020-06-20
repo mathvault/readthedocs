@@ -43,7 +43,7 @@ Attention block:
 .. attention::
  Hey there. Watch out!
  
- .. image:: BLM.png
+ .. image:: BLM.jpg
 
 .. _beginning:
 
