@@ -42,6 +42,8 @@ Attention block:
 
 .. attention::
  Hey there. Watch out!
+ 
+ .. image:: BLM.png
 
 .. _beginning:
 
