@@ -3,6 +3,7 @@ Welcome
 
 .. toctree::
    :maxdepth: 2
+   :titlesonly:
    
    index
    probability
