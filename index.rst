@@ -38,8 +38,9 @@ False  True   False
 True   True   True
 =====  =====  =======
 
-_beginning:
+.. _beginning:
 
+======================
 Section: The Beginning
 ======================
 
